@@ -1,1 +1,4 @@
 version: 1.0
+
+config:
+  info: "msater branch,springcloud-config/config-dev.yml version=1.0"
